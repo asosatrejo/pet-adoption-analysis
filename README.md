@@ -21,3 +21,4 @@
 ## Resources
 - [Navigating Petfinder’s API using Petpy Wrapper](https://medium.com/analytics-vidhya/navigating-petfinders-api-using-petpy-wrapper-2cf085c33d75)
 - [Pythonic Data Cleaning With pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
+-[Pandas Drop Last Column from DataFrame](https://sparkbyexamples.com/pandas/pandas-drop-last-column-from-dataframe-2/#:~:text=using%20iloc%5B%5D-,Using%20DataFrame.,the%20last%20column%20from%20DataFrame.)
