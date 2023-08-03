@@ -1,2 +1,3 @@
-api_key = "Test"
-api_secret = "Test"
+api_key = "nope"
+api_secret = "sorry"
+
