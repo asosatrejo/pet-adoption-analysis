@@ -52,6 +52,17 @@ These questions are to help us narrow our research to help find significant data
 
 # Analysis and Conclusion
 
+Data Analysis for Question 2:
+
+For the first part of this question we created two pie charts analyzing the adoption percentages of cats and then dogs when compared by age. There is a clear correlation in both pie charts that we can see and it would seem that the younger a dog or cat is the more likely they are to be adopted. The baby animals make up around half of the pie chart in both cats and dogs when it comes to how many of them were adopted. Unfortunately this does mean the older animals are less likely to be adopted as senior animals of both types hardly have any presence on the pie chart. It does seem however that adult dogs are more likely to be adopted than young ones but for the most part younger animals do seem to do better. 
+
+Next we focus on size and the data would like us to believe that Medium sized dogs and cats are more liked than the others especially when we are talking about cats. From here however we can see that animals larger than that are not adopted as often. Especially with extra large animals that seem to be rarely adopted. This makes a lot of sense as well given that larger animals are harder to take care of. So one takeaway here is that there isn’t necessarily a ‘too small’ since the adoption rates of the smaller animals is still relatively good but there is definitely a ‘too large’ because the demographic of larger animals that have been adopted is very small.
+
+The Final part of this question is perhaps the least telling given the fact that be it dog or cat the rate of adoption between the males vs the females is nearly even. The split isn’t significant enough to tell us that one gender is preferred over another and gives us the insight that the gender of the animal has little to no impact on the choices that potential pet owners make so gender will not be a big factor in predicting the rate of adoption or in any way a part of the plan when it comes to helping pets get adopted. 
+
+To conclude it would seem as though smaller and younger pets are some of the most likely to be adopted. More specifically due to our data it would seem that a baby cat/dog that’s medium sized has the absolute best chance of being adopted. Now we can reason why this all is, if someone were to adopt an older pet you wouldn’t have them around nearly as long as a younger one and you also have the benefit of training them how you want to train them and getting them used to your family. Small to medium sized pets are also easier to manage, you can pick them up easier,  have smaller messes if any and I imagine discipline will come easier as well. To help improve the rate of adoption perhaps organizations can attempt to promote animals that are younger to be adopted and try to get them adopted as young as possible all the while managing their weight to attempt to keep them within the small-medium range. Naturally there are breeds of animals that are larger by nature but even managing a diet for potential pets would likely do wonders.
+
+
 # Resources
 ## Location Analysis - Portion completed by Ariana
 - [Navigating Petfinder’s API using Petpy Wrapper](https://medium.com/analytics-vidhya/navigating-petfinders-api-using-petpy-wrapper-2cf085c33d75)
