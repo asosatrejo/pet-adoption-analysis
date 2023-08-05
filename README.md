@@ -78,20 +78,31 @@ On the scatter plots, the cities were labeled. The sizes and colors of the dots 
 
 Although the focus was shifted in the process of answering the initial question, it did serve as a great starting point. We can conclude that western North Carolina generally has the most adoptable pets, and can view images "top-10-dogs-scatter.png" and "top-10-cats-scatter.png" to see the general area in which the cities are located. With more experience, and perhaps a better laptop, a bigger dataset could be analyzed to take a different approach to answering the initial question. "Does a certain area have higher/lower adoption rates?" Perhaps, but we can answer "Does a certain area have higher/lower available adoptable pets?" Yes, look to Western North Carolina!
 
-# Resources
-
 # Files included
 ## Location Analysis
 - Location-Analysis.ipynb
 - top-10-cats-scatter.png
 - top-10-dogs-scatter.png
 
-# Pet Attributes Analysis
+## Pet Attributes Analysis
 - Per-Adoption-Analysis.ipynb
+- pie.png
+- pie2.png
+- pie3.png
+- pie4.png
+- pie5.png
+- pie6.png
 
-## Location Analysis - Portion completed by Ariana
+## Convenient Organizations Analysis
+- convenient_cats.png
+- convenient_dogs.png
+- number_of_organizations.png
+
+# Resources
+## Location Analysis 
 - [Navigating Petfinder’s API using Petpy Wrapper](https://medium.com/analytics-vidhya/navigating-petfinders-api-using-petpy-wrapper-2cf085c33d75)
 - [Pythonic Data Cleaning With pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
 - [Pandas Drop Last Column from DataFrame](https://sparkbyexamples.com/pandas/pandas-drop-last-column-from-dataframe-2/#:~:text=using%20iloc%5B%5D-,Using%20DataFrame.,the%20last%20column%20from%20DataFrame.)
 - [Matplotlib Cheatsheets and Handouts](https://matplotlib.org/cheatsheets/)
 - [List of Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html)
+
