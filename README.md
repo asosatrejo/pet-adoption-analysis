@@ -79,6 +79,9 @@ On the scatter plots, the cities were labeled. The sizes and colors of the dots 
 Although the focus was shifted in the process of answering the initial question, it did serve as a great starting point. We can conclude that western North Carolina generally has the most adoptable pets, and can view images "top-10-dogs-scatter.png" and "top-10-cats-scatter.png" to see the general area in which the cities are located. With more experience, and perhaps a better laptop, a bigger dataset could be analyzed to take a different approach to answering the initial question. "Does a certain area have higher/lower adoption rates?" Perhaps, but we can answer "Does a certain area have higher/lower available adoptable pets?" Yes, look to Western North Carolina!
 
 # Files included
+## Presentation
+- Operation adopt a pet.pdf
+
 ## Location Analysis
 - Location-Analysis.ipynb
 - top-10-cats-scatter.png
